@@ -1,25 +1,15 @@
-
-insert 111
-             insert 23
-
-insert 99
-insert         4
-
-isEmpty
-
-    insert     111
-
+insert 1
+insert 16
+insert 53
+insert 12
 print
-
-
-search 9
-
-remove 23
-
+remove 53
+search 12
+insert 4
+insert 38
 remove 4
-remove 999999
-isEmptyasfh
-print
-
-insert 123
+Waffles
+tReE
+remove 75
+search 175
 print
